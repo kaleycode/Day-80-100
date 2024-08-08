@@ -51,7 +51,7 @@ def index():
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>replit</title>
+    <title>day84</title>
     <style>
   h3, button{
     text-align: center;
